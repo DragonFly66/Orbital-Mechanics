@@ -1,0 +1,14 @@
+22 XI 2017  	code - analysis of existing codes related to ISS or satellites tracking 
+		report - introduction  
+29 XI 2017 	code - first version 
+		report - introduction development 
+6 XII 2017  	code - development
+		report - mathematical model of determination of ISS/ satellites position and visibility from specified location
+13 XII 2017 	code - development
+		report - mathematical model development, code description
+20 XII 2017 	code - development
+		report - code description development
+3 I 2018 	code - last improvements 
+		report - results desription
+10 I 2018	code - final version
+		report - final version
